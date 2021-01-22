@@ -1,0 +1,3 @@
+third file - for diff command
+check difference
+changes again
