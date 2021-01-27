@@ -1,3 +1,5 @@
 third file - for diff command
 check difference
 changes again
+git ignore changes
+git reset test
