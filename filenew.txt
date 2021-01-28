@@ -2,3 +2,4 @@ New file
 verify diff
 verify diff cached
 check git reset --soft command
+check reset --mixed with commit id
